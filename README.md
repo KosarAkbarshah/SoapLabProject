@@ -1,6 +1,6 @@
-# Accordion-Menu-By-React
+# SoapLab Landing page
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**user-friendly and easy-to-explore landing page for a business that creates natural and handmade soaps**
 
 ![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
 
@@ -8,14 +8,12 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Developed by Kosar Akbarshah 
 
-- Created - 2022-11-26
+- Created - 2024-08-05
 
-- Technologies Used - Html , css , js , React.js
-
-- Hooks Used : useState 
+- Technologies Used - Html , css
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [linkedin](https://www.linkedin.com/in/tara-akbarshah-22102b1b6/)
